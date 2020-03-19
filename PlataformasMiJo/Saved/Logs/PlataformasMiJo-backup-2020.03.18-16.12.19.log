@@ -1,0 +1,1282 @@
+﻿Log file open, 03/18/20 12:28:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlataformasMiJo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.808825
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername="Tuma Cho" -epicuserid=3d3bb3d10ac849a5b7bb57124fcbba1a -epiclocale=es
+LogInit: Base Directory: D:/Juegos Legales/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.18-11.28.19:530][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.18-11.28.19:531][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:531][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:533][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.18-11.28.19:533][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.18-11.28.19:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.18-11.28.19:535][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.18-11.28.19:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.18-11.28.19:536][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.18-11.28.19:536][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.18-11.28.19:540][  0]LogHAL: Display: Platform has ~ 16 GB [17083215872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.18-11.28.19:540][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.18-11.28.19:540][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.03.18-11.28.19:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.18-11.28.19:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.18-11.28.19:542][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.18-11.28.19:543][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.18-11.28.19:544][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.18-11.28.19:544][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.18-11.28.19:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Config/Windows/Engine.ini]
+[2020.03.18-11.28.19:544][  0]LogInit: Computer: MSI
+[2020.03.18-11.28.19:544][  0]LogInit: User: Loquele
+[2020.03.18-11.28.19:544][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.18-11.28.19:544][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.18-11.28.19:544][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.18-11.28.19:544][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.18-11.28.19:544][  0]LogMemory: Process Physical Memory: 104.91 MB used, 104.91 MB peak
+[2020.03.18-11.28.19:544][  0]LogMemory: Process Virtual Memory: 100.58 MB used, 100.58 MB peak
+[2020.03.18-11.28.19:544][  0]LogMemory: Physical Memory: 7680.59 MB used,  8611.23 MB free, 16291.82 MB total
+[2020.03.18-11.28.19:544][  0]LogMemory: Virtual Memory: 5151.94 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.03.18-11.28.19:548][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.18-11.28.19:593][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.18-11.28.19:593][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.03.18-11.28.19:593][  0]LogInit: Using OS detected locale (es-ES).
+[2020.03.18-11.28.19:832][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.18-11.28.19:913][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.18-11.28.19:913][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.18-11.28.20:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.18-11.28.20:382][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.18-11.28.20:382][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.18-11.28.20:382][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.18-11.28.20:464][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.03.18-11.28.20:464][  0]LogD3D11RHI:       2010/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.18-11.28.20:491][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.03.18-11.28.20:491][  0]LogD3D11RHI:       128/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.18-11.28.20:494][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.18-11.28.20:494][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.18-11.28.20:494][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.18-11.28.20:549][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.18-11.28.20:549][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.03.18-11.28.20:549][  0]LogWindows: EnumDisplayDevices:
+[2020.03.18-11.28.20:549][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.03.18-11.28.20:550][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.03.18-11.28.20:550][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.03.18-11.28.20:550][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.18-11.28.20:550][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.03.18-11.28.20:550][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.18-11.28.20:550][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.18-11.28.20:550][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.03.18-11.28.20:600][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.18-11.28.20:600][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.18-11.28.20:627][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.18-11.28.21:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.18-11.28.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.18-11.28.21:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.18-11.28.21:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.18-11.28.21:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.18-11.28.21:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.18-11.28.21:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.18-11.28.21:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.18-11.28.21:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.18-11.28.21:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.18-11.28.21:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.18-11.28.21:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.18-11.28.21:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.18-11.28.21:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.18-11.28.21:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.18-11.28.21:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.18-11.28.21:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.18-11.28.21:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.18-11.28.21:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.18-11.28.21:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.18-11.28.21:371][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.18-11.28.21:403][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Intermediate/Shaders/WorkingDirectory/4640/).
+[2020.03.18-11.28.21:403][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Loquele/AppData/Local/Temp/UnrealShaderWorkingDir/608C42604FEBBA86832D9BAA9BD789F6/'.
+[2020.03.18-11.28.21:404][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.18-11.28.21:404][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.18-11.28.21:404][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.18-11.28.22:399][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.18-11.28.22:468][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Loquele/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.18-11.28.22:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Loquele/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.18-11.28.22:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.18-11.28.22:469][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.18-11.28.22:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.18-11.28.22:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.18-11.28.22:481][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.18-11.28.22:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.18-11.28.22:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.18-11.28.22:483][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Loquele/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.18-11.28.22:483][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.18-11.28.22:483][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.18-11.28.22:520][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.18-11.28.22:525][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.18-11.28.22:526][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.18-11.28.22:615][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.03.18-11.28.22:999][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.18-11.28.23:193][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.18-11.28.23:193][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.18-11.28.23:193][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.18-11.28.23:193][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.18-11.28.23:193][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.18-11.28.23:207][  0]LogNetVersion: PlataformasMiJo 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1109481597)
+[2020.03.18-11.28.24:854][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.233197 seconds
+[2020.03.18-11.28.24:862][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.18-11.28.24:862][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.18-11.28.24:862][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.18-11.28.25:509][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.18-11.28.25:512][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.18-11.28.25:570][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.25:570][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.25:572][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.25:573][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.25:574][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.25:759][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.18-11.28.25:770][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.18-11.28.25:770][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.18-11.28.25:869][  0]LogOcInput: OculusInput pre-init called
+[2020.03.18-11.28.25:877][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.18-11.28.25:877][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.18-11.28.25:964][  0]LogEngine: Initializing Engine...
+[2020.03.18-11.28.25:965][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.18-11.28.25:966][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.18-11.28.26:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.18-11.28.26:379][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.18-11.28.26:403][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.18-11.28.26:403][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.18-11.28.26:403][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.18-11.28.26:479][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.18-11.28.26:506][  0]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.03.18-11.28.26:515][  0]LogInit: FAudioDevice initialized.
+[2020.03.18-11.28.26:515][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.18-11.28.26:738][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/Loquele/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.18-11.28.26:739][  0]LogInit: Texture streaming: Enabled
+[2020.03.18-11.28.26:751][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.18-11.28.26:751][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.18-11.28.26:759][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.18-11.28.26:875][  0]LogInit: Transaction tracking system initialized
+[2020.03.18-11.28.26:887][  0]BlueprintLog: New page: Editor Load
+[2020.03.18-11.28.26:922][  0]LocalizationService: Localization service is disabled
+[2020.03.18-11.28.27:550][  0]LogFileCache: Scanning file cache for directory 'D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/' took 0.01s
+[2020.03.18-11.28.27:550][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.18-11.28.27:550][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.18-11.28.28:639][  0]SourceControl: Source control is disabled
+[2020.03.18-11.28.28:639][  0]Cmd: MAP LOAD FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.18-11.28.28:682][  0]LightingResults: New page: Lighting Build
+[2020.03.18-11.28.28:683][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-11.28.28:683][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-11.28.28:683][  0]MapCheck: New page: Map Check
+[2020.03.18-11.28.28:683][  0]LightingResults: New page: Lighting Build
+[2020.03.18-11.28.28:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.18-11.28.28:979][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.03.18-11.28.28:981][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.18-11.28.29:010][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.18-11.28.29:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.18-11.28.29:011][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2020.03.18-11.28.29:011][  0]LogFileHelpers: Loading map 'MainMenu' took 0.373
+[2020.03.18-11.28.29:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.28.29:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.28.29:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.28.30:002][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.28.30:109][  0]LogCollectionManager: Loaded 0 collections in 0.013796 seconds
+[2020.03.18-11.28.30:287][  0]LogFileCache: Scanning file cache for directory 'D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Collections/' took 0.00s
+[2020.03.18-11.28.30:287][  0]LogFileCache: Scanning file cache for directory 'D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Developers/Loquele/Collections/' took 0.00s
+[2020.03.18-11.28.30:287][  0]LogFileCache: Scanning file cache for directory 'D:/Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Collections/' took 0.00s
+[2020.03.18-11.28.30:287][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3015 classes and 717 folders.
+[2020.03.18-11.28.30:334][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.18-11.28.31:559][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.18-11.28.31:729][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.03.18-11.28.33:169][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.18-11.28.33:179][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.18-11.28.33:361][  0]LogSlate: Took 0.124385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.18-11.28.34:152][  0]LogRenderer: Reallocating scene render targets to support 940x400 Format 9 NumSamples 1 (Frame:1).
+[2020.03.18-11.28.34:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.18-11.28.34:830][  0]LogLoad: (Engine Initialization) Total time: 19.80 seconds
+[2020.03.18-11.28.34:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.18-11.28.34:909][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.03.18-11.28.35:120][  0]LogSlate: Took 0.011058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.18-11.28.36:752][ 21]LogAssetRegistry: Asset discovery search completed in 14.1387 seconds
+[2020.03.18-11.28.36:783][ 21]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2020.03.18-11.29.19:346][556]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.18-11.29.26:732][556]LogAIModule: Creating AISystem for world Mapbase
+[2020.03.18-11.29.27:233][556]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Mapbase.Mapbase
+[2020.03.18-11.29.27:340][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.18-11.29.27:366][556]Cmd: MAP LOAD FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/Mapbase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.18-11.29.27:382][556]LightingResults: New page: Lighting Build
+[2020.03.18-11.29.27:383][556]LoadErrors: New page: Loading map: Mapbase.umap
+[2020.03.18-11.29.27:384][556]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-11.29.27:384][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-11.29.27:384][556]MapCheck: New page: Map Check
+[2020.03.18-11.29.27:384][556]LightingResults: New page: Lighting Build
+[2020.03.18-11.29.27:418][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.03.18-11.29.30:064][556]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.18-11.29.30:155][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.03.18-11.29.30:189][556]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.18-11.29.30:190][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2020.03.18-11.29.30:190][556]LogFileHelpers: Loading map 'Mapbase' took 2.841
+[2020.03.18-11.36.11:257][470]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.18-11.36.15:231][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLueprints/Save/SaveGame.SaveGame
+[2020.03.18-11.36.15:921][704]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.18-11.36.17:832][704]LogSlate: Took 0.079103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.18-11.36.35:832][858]LogSlate: Window 'SaveGame' being destroyed
+[2020.03.18-11.36.52:794][684]LogSlate: Took 0.072985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.18-11.37.16:222][912]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.18-11.37.16:241][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mapbase.Mapbase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase' with GeneratedClass '/Game/Maps/Mapbase.Mapbase_C' with ClassGeneratedBy '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase'
+[2020.03.18-11.37.16:241][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.18-11.37.16:241][912]LogPlayLevel: [PlayLevel] Compiling SaveGame before play...
+[2020.03.18-11.37.16:288][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.18-11.37.16:293][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2020.03.18-11.37.16:293][912]PIE: New page: PIE session: Mapbase (18 mar. 2020 13:37:16)
+[2020.03.18-11.37.16:294][912]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.18-11.37.16:296][912]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.18-11.37.16:297][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mapbase
+[2020.03.18-11.37.16:833][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.512601s)
+[2020.03.18-11.37.16:834][912]LogAIModule: Creating AISystem for world Mapbase
+[2020.03.18-11.37.16:834][912]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2020.03.18-11.37.16:834][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mapbase.Mapbase to /Game/Maps/UEDPIE_0_Mapbase.Mapbase (0.536485s)
+[2020.03.18-11.37.16:874][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.18-11.37.16:876][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.18-11.37.16:876][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.18-11.37.16:877][912]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.18-11.37.16:877][912]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Name: Altavoces (USB Audio Device)
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Is Default: Yes
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: Channel Order:
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.18-11.37.16:917][912]LogAudioMixer: Display: 1: FrontRight
+[2020.03.18-11.37.16:933][912]LogAudioMixer: Display: Using Audio Device Altavoces (USB Audio Device)
+[2020.03.18-11.37.16:935][912]LogInit: FAudioDevice initialized.
+[2020.03.18-11.37.16:990][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.37.16:992][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.18-11.37.17:036][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mapbase.Mapbase up for play (max tick rate 60) at 2020.03.18-12.37.17
+[2020.03.18-11.37.17:038][912]LogWorld: Bringing up level for play took: 0.044694
+[2020.03.18-11.37.17:039][912]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.03.18-11.37.17:044][912]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.18-11.37.17:052][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mapbase 1,056
+[2020.03.18-11.37.17:053][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mapbase.Mapbase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase' with GeneratedClass '/Game/Maps/Mapbase.Mapbase_C' with ClassGeneratedBy '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase'
+[2020.03.18-11.37.17:327][913]LogRenderer: Reallocating scene render targets to support 940x504 Format 9 NumSamples 1 (Frame:1).
+[2020.03.18-11.37.26:363][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.18-11.37.26:363][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.18-11.37.26:363][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mapbase.Mapbase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase' with GeneratedClass '/Game/Maps/Mapbase.Mapbase_C' with ClassGeneratedBy '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase'
+[2020.03.18-11.37.26:363][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-11.37.26:363][299]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mapbase
+[2020.03.18-11.37.26:384][299]LogSlate: Window 'PlataformasMiJo Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.18-11.37.26:391][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.18-11.37.26:392][299]LogWorld: UWorld::CleanupWorld for Mapbase, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-11.37.26:401][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-11.37.26:413][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-11.37.26:414][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mapbase.Mapbase:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase' with GeneratedClass '/Game/Maps/Mapbase.Mapbase_C' with ClassGeneratedBy '/Game/Maps/Mapbase.Mapbase:PersistentLevel.Mapbase'
+[2020.03.18-11.37.26:421][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-11.37.26:471][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.18-11.37.26:557][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.03.18-11.37.26:589][300]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.18-11.39.29:701][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.03.18-11.39.29:702][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.049
+[2020.03.18-11.39.29:712][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/Save/SaveGame] ([1] browsable assets)...
+[2020.03.18-11.39.29:712][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/Save/SaveGame]
+[2020.03.18-11.39.29:719][657]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/SaveGame_Auto1CC6633894175F5F335D36AB88D83AD28.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/Save/SaveGame_Auto1.uasset'
+[2020.03.18-11.39.29:721][657]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.03.18-11.49.25:935][ 72]BlueprintLog: New page: Compile SaveGame
+[2020.03.18-11.49.25:985][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.03.18-11.49.26:663][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/SaveGame" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/SaveGame.uasset" SILENT=true
+[2020.03.18-11.49.26:672][110]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/SaveGame361E3ACC4C27FC57B614D0881847E5BC.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/SaveGame.uasset'
+[2020.03.18-11.49.26:702][110]AssetCheck: New page: Asset Save: SaveGame
+[2020.03.18-11.49.26:702][110]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/SaveGame.SaveGame
+[2020.03.18-12.00.12:102][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.00.13:170][216]LogSlate: Took 0.013781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.18-12.01.21:587][731]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.18-12.02.13:808][551]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.03.18-12.02.13:812][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.055
+[2020.03.18-12.02.13:854][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.18-12.02.13:888][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.18-12.02.13:888][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.18-12.02.14:307][551]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter_Auto20609663144C5D3513EF7759B38E4B18C.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2020.03.18-12.02.14:330][551]LogFileHelpers: Auto-saving content packages took 0.518
+[2020.03.18-12.12.14:662][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.03.18-12.12.14:664][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.060
+[2020.03.18-12.12.14:665][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.18-12.12.14:699][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.18-12.12.14:699][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.18-12.12.15:090][ 72]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter_Auto3A5C56A43465268C682B186B1875E4CCF.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2020.03.18-12.12.15:093][ 72]LogFileHelpers: Auto-saving content packages took 0.428
+[2020.03.18-12.14.51:406][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.18-12.14.51:410][984]LogMetaData: Removing '/Game/BLueprints/Save/Guardado.SKEL_Guardado_C' ref from Metadata '/Game/BLueprints/Save/SaveGame.PackageMetaData'
+[2020.03.18-12.14.51:410][984]LogMetaData: Removing '/Game/BLueprints/Save/Guardado.Guardado_C' ref from Metadata '/Game/BLueprints/Save/SaveGame.PackageMetaData'
+[2020.03.18-12.14.51:451][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/Guardado" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset" SILENT=true
+[2020.03.18-12.14.51:459][984]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Guardado418638DB44669616C92EC7B1980CDB49.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset'
+[2020.03.18-12.14.51:928][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.03.18-12.14.51:988][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.03.18-12.14.52:036][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.18-12.14.52:204][984]AssetCheck: New page: Asset Save: Guardado
+[2020.03.18-12.14.52:204][984]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/Guardado.Guardado
+[2020.03.18-12.14.54:351][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/Guardado" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset" SILENT=true
+[2020.03.18-12.14.54:368][110]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/GuardadoD81AB0754F7ED5EA8FDEB69D2F6D178E.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset'
+[2020.03.18-12.14.54:386][110]AssetCheck: New page: Asset Save: Guardado
+[2020.03.18-12.14.54:386][110]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/Guardado.Guardado
+[2020.03.18-12.14.54:866][139]BlueprintLog: New page: Compile Guardado
+[2020.03.18-12.14.54:918][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.03.18-12.14.56:815][243]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterE9D96212463F053F707F1DB777911363.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-12.14.56:880][243]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-12.14.56:880][243]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.14.57:528][282]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-12.14.58:057][282]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.03.18-12.14.59:440][349]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.18-12.19.48:475][358]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.18-12.19.51:424][523]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.18-12.19.54:903][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLueprints/Save/NewBlueprint.NewBlueprint
+[2020.03.18-12.19.57:977][777]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.03.18-12.20.02:838][ 61]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-12.20.02:838][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-12.20.05:911][214]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.03.18-12.20.08:224][214]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.18-12.20.08:415][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.03.18-12.20.08:477][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.03.18-12.20.08:521][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.03.18-12.20.14:024][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.18-12.20.14:027][527]LogMetaData: Removing '/Game/BLueprints/Save/Guardado.SKEL_Guardado_C' ref from Metadata '/Game/BLueprints/Save/NewBlueprint.PackageMetaData'
+[2020.03.18-12.20.14:027][527]LogMetaData: Removing '/Game/BLueprints/Save/Guardado.Guardado_C' ref from Metadata '/Game/BLueprints/Save/NewBlueprint.PackageMetaData'
+[2020.03.18-12.20.14:070][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/Guardado" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset" SILENT=true
+[2020.03.18-12.20.14:078][527]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Guardado5B2E65DB498B70AB660E1787E12DD2DE.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset'
+[2020.03.18-12.20.14:365][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.03.18-12.20.14:421][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.18-12.20.14:468][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.03.18-12.20.14:660][527]AssetCheck: New page: Asset Save: Guardado
+[2020.03.18-12.20.14:660][527]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/Guardado.Guardado
+[2020.03.18-12.20.16:545][632]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.18-12.20.59:086][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/Guardado" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset" SILENT=true
+[2020.03.18-12.20.59:100][113]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/GuardadoAC038B0D4C9BA0B693E4178B88B16E87.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset'
+[2020.03.18-12.20.59:126][113]AssetCheck: New page: Asset Save: Guardado
+[2020.03.18-12.20.59:126][113]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/Guardado.Guardado
+[2020.03.18-12.20.59:664][146]BlueprintLog: New page: Compile Guardado
+[2020.03.18-12.20.59:731][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.03.18-12.21.17:783][189]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterA3B51A984CCF738A693952A3566B8072.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-12.21.17:809][189]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-12.21.17:809][189]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.21.18:339][220]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-12.21.18:698][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.03.18-12.27.14:239][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.03.18-12.27.14:241][309]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.051
+[2020.03.18-12.27.14:241][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.18-12.27.14:274][309]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.18-12.27.14:274][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.18-12.27.14:698][309]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter_Auto447E9521945BB515576C3DC8C90853ADD.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2020.03.18-12.27.14:711][309]LogFileHelpers: Auto-saving content packages took 0.470
+[2020.03.18-12.30.59:416][829]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterF7583FB048E486ADC1F3DFBD1AC9C8C3.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-12.30.59:446][829]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-12.30.59:446][829]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.30.59:797][850]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-12.31.00:169][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.03.18-12.31.18:287][913]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BLueprints/UI/Menu.Menu
+[2020.03.18-12.31.21:727][ 68]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-12.31.21:727][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-12.31.21:745][ 68]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.18-12.31.21:745][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.18-12.31.23:819][182]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-12.31.26:024][267]LogSlate: Took 0.086660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.18-12.35.01:582][337]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterC668AD904AE3A4FC4C23C4BD6700D64B.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-12.35.01:600][337]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-12.35.01:600][337]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.35.02:249][376]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-12.35.02:883][376]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.03.18-12.35.07:650][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-12.35.07:743][645]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuE9E925BE48D144B86B9343B11023C133.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-12.35.07:772][645]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-12.35.07:772][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-12.35.08:191][670]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-12.35.08:199][670]LogBlueprint: Warning: [Compiler PauseMenu] Could not find a variable named "Player_LOC" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Set Player_LOC
+[2020.03.18-12.35.08:200][670]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2020.03.18-12.35.08:200][670]LogBlueprint: Error: [Compiler PauseMenu] The type of  Object  is undetermined.  Connect something to  Cast To Guardado  to imply a specific type.
+[2020.03.18-12.35.08:200][670]LogBlueprint: Error: [Compiler PauseMenu] The property associated with  Player LOC  could not be found in '/Game/BLueprints/UI/PauseMenu.PauseMenu_C'
+[2020.03.18-12.35.08:201][670]LogBlueprint: Error: [Compiler PauseMenu] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.03.18-12.35.08:278][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.03.18-12.35.30:036][937]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-12.35.30:045][937]LogBlueprint: Warning: [Compiler PauseMenu] Could not find a variable named "Player_LOC" in 'PauseMenu_C'.
+Make sure 'PauseMenu_C' has been compiled for  Set Player_LOC
+[2020.03.18-12.35.30:045][937]LogBlueprint: Error: [Compiler PauseMenu] The type of  Object  is undetermined.  Connect something to  Cast To Guardado  to imply a specific type.
+[2020.03.18-12.35.30:046][937]LogBlueprint: Error: [Compiler PauseMenu] The property associated with  Player LOC  could not be found in '/Game/BLueprints/UI/PauseMenu.PauseMenu_C'
+[2020.03.18-12.35.30:046][937]LogBlueprint: Error: [Compiler PauseMenu] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.03.18-12.35.30:114][937]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.03.18-12.35.31:555][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-12.35.31:668][ 18]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuCCE759814D1EAB93DE1709B2D04A50C6.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-12.35.31:695][ 18]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-12.35.31:695][ 18]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-12.35.35:804][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-12.35.35:834][257]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu08C786FA4B41F37944F3DDB2672B2D92.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-12.35.35:857][257]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-12.35.35:857][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-12.36.29:688][284]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.18-12.36.33:028][469]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.18-12.36.33:034][469]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.18-12.38.04:802][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.03.18-12.38.04:806][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.062
+[2020.03.18-12.38.05:085][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/UI/PauseMenu] ([1] browsable assets)...
+[2020.03.18-12.38.05:086][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/UI/PauseMenu]
+[2020.03.18-12.38.05:112][865]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu_Auto58137E9084CA28575CB3A48932ABFB9DD.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/UI/PauseMenu_Auto5.uasset'
+[2020.03.18-12.38.05:138][865]LogFileHelpers: Auto-saving content packages took 0.332
+[2020.03.18-12.41.17:450][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-12.41.17:805][850]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuA29952A34DC1974530E640BE3F9BC3BD.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-12.41.17:826][850]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-12.41.17:826][850]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-12.41.18:426][886]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-12.41.18:492][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.03.18-12.41.23:478][140]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterBF586A1C4C3E08697CEBC1A4B9B233A0.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-12.41.23:505][140]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-12.41.23:505][140]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-12.41.23:921][164]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-12.41.24:368][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.03.18-12.55.14:423][197]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.03.18-12.55.14:427][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.072
+[2020.03.18-12.55.14:427][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/UI/PauseMenu] ([1] browsable assets)...
+[2020.03.18-12.55.14:428][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/UI/PauseMenu]
+[2020.03.18-12.55.14:466][197]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu_Auto61EB60F6646B42B5488A533A04953E75E.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/UI/PauseMenu_Auto6.uasset'
+[2020.03.18-12.55.14:468][197]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.03.18-13.34.32:484][280]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.18-14.23.57:216][113]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.18-14.36.44:393][ 83]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta2)
+[2020.03.18-14.37.49:925][245]LogUObjectHash: Compacting FUObjectHashTables data took  28.77ms
+[2020.03.18-14.37.49:930][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.276
+[2020.03.18-14.37.49:933][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/UI/PauseMenu] ([1] browsable assets)...
+[2020.03.18-14.37.49:933][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/UI/PauseMenu]
+[2020.03.18-14.37.50:005][245]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu_Auto712A1DBFE4BD3ABD429818BAFFE588C18.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/UI/PauseMenu_Auto7.uasset'
+[2020.03.18-14.37.50:007][245]LogFileHelpers: Auto-saving content packages took 0.076
+[2020.03.18-14.46.54:659][953]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.18-14.59.29:255][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.03.18-14.59.29:258][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.061
+[2020.03.18-14.59.29:258][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/UI/PauseMenu] ([1] browsable assets)...
+[2020.03.18-14.59.29:258][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/UI/PauseMenu]
+[2020.03.18-14.59.29:621][985]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu_Auto852673DD948CB9A762B03279F8DB64CB7.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/UI/PauseMenu_Auto8.uasset'
+[2020.03.18-14.59.29:622][985]LogFileHelpers: Auto-saving content packages took 0.364
+[2020.03.18-15.01.54:789][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-15.01.55:133][539]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuE9D1C1244002D62E096AD7ADA7832003.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-15.01.55:163][539]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-15.01.55:163][539]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-15.01.55:647][568]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-15.01.55:839][568]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not a Guardado_C, therefore ' Target ' must have a connection.
+[2020.03.18-15.01.55:840][568]LogBlueprint: Error: [Compiler PauseMenu] Variable node  Set Loc_Player  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.03.18-15.01.55:955][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.03.18-15.02.26:158][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-15.02.26:189][315]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuA672BCE241212BFDB9C79E8EB4F576E0.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-15.02.26:214][315]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-15.02.26:214][315]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-15.02.26:665][342]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-15.02.26:736][342]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.03.18-15.02.38:227][ 22]LogEditorTransaction: Undo Add Node
+[2020.03.18-15.03.03:075][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-15.03.03:107][444]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu8407F07A40FF893F00A1039BD6C02DFC.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-15.03.03:135][444]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-15.03.03:136][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-15.03.03:703][478]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-15.03.03:775][478]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.03.18-15.03.51:448][230]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter4E5824594DA5FE4DDC9A648FC8156A48.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-15.03.51:468][230]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-15.03.51:468][230]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-15.03.53:010][322]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-15.03.53:898][322]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.03.18-15.05.40:861][624]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-15.05.40:934][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.03.18-15.05.43:387][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-15.05.43:420][760]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenuB6F25BCD4B78F5BE04A2F3B0F084BA84.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-15.05.43:450][760]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-15.05.43:450][760]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-15.09.29:983][239]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.03.18-15.09.29:984][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.062
+[2020.03.18-15.09.29:985][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLueprints/Save/Guardado] ([1] browsable assets)...
+[2020.03.18-15.09.29:985][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/Save/Guardado]
+[2020.03.18-15.09.30:000][239]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Guardado_Auto99F712AB949F72877FDA4FB8957A4DAC5.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/Save/Guardado_Auto9.uasset'
+[2020.03.18-15.09.30:001][239]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.03.18-15.11.08:853][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Save/Guardado" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset" SILENT=true
+[2020.03.18-15.11.09:148][655]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Guardado5274831A437FF997C04F68A28ADB6B62.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Save/Guardado.uasset'
+[2020.03.18-15.11.09:167][655]AssetCheck: New page: Asset Save: Guardado
+[2020.03.18-15.11.09:167][655]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Save/Guardado.Guardado
+[2020.03.18-15.11.09:526][677]BlueprintLog: New page: Compile Guardado
+[2020.03.18-15.11.09:602][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.03.18-15.17.21:870][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/UI/PauseMenu" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset" SILENT=true
+[2020.03.18-15.17.22:204][702]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/PauseMenu909882114E296ABF1E7688B718249A51.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/UI/PauseMenu.uasset'
+[2020.03.18-15.17.22:236][702]AssetCheck: New page: Asset Save: PauseMenu
+[2020.03.18-15.17.22:236][702]LogContentValidation: Display: Validating WidgetBlueprint /Game/BLueprints/UI/PauseMenu.PauseMenu
+[2020.03.18-15.17.22:628][725]BlueprintLog: New page: Compile PauseMenu
+[2020.03.18-15.17.22:698][725]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.03.18-15.22.12:447][617]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter4F726D0C4F48B34D8A73F3B28244877C.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-15.22.12:479][617]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-15.22.12:479][617]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-15.22.12:819][637]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-15.22.13:284][637]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.03.18-15.29.32:613][605]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.03.18-15.29.32:614][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.068
+[2020.03.18-15.29.32:614][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.03.18-15.29.32:647][605]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.03.18-15.29.32:647][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.03.18-15.29.32:964][605]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacter_Auto076748C324FF19FEE13BF5A81F3C6555A.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto0.uasset'
+[2020.03.18-15.29.32:965][605]LogFileHelpers: Auto-saving content packages took 0.351
+[2020.03.18-15.34.30:009][651]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/FirstPersonCharacterCDA424A64A4DDB12097E3C889A4DA34A.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.03.18-15.34.30:038][651]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.03.18-15.34.30:038][651]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.03.18-15.34.30:464][676]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.03.18-15.34.30:962][676]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.18-15.39.06:072][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLueprints/Puerta.Puerta
+[2020.03.18-15.40.53:547][889]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.03.18-15.40.53:549][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 0.074
+[2020.03.18-15.40.53:549][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLueprints/Puerta] ([1] browsable assets)...
+[2020.03.18-15.40.53:583][889]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLueprints/Puerta.Puerta]
+[2020.03.18-15.40.53:583][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/Puerta]
+[2020.03.18-15.40.54:036][889]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Puerta_Auto1A9455BAB4B3B1E7954A90C8DE0D4744C.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/Puerta_Auto1.uasset'
+[2020.03.18-15.40.54:049][889]LogFileHelpers: Auto-saving content packages took 0.501
+[2020.03.18-15.49.09:834][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Puerta" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Puerta.uasset" SILENT=true
+[2020.03.18-15.49.10:184][544]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Puerta36EA440841D4707219ABA5883699FA71.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Puerta.uasset'
+[2020.03.18-15.49.10:207][544]AssetCheck: New page: Asset Save: Puerta
+[2020.03.18-15.49.10:207][544]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Puerta.Puerta
+[2020.03.18-15.49.10:664][570]BlueprintLog: New page: Compile Puerta
+[2020.03.18-15.49.11:150][570]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.03.18-15.49.14:704][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapbase" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/Mapbase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.18-15.49.14:805][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.03.18-15.49.17:638][770]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Mapbase0B949C8C48B57EAD5296189E9D667FC8.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/Mapbase.umap'
+[2020.03.18-15.49.17:719][770]AssetCheck: New page: Asset Save: Mapbase
+[2020.03.18-15.49.17:719][770]LogContentValidation: Display: Validating World /Game/Maps/Mapbase.Mapbase
+[2020.03.18-15.49.29:057][425]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta3)
+[2020.03.18-15.49.32:770][632]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta2)
+[2020.03.18-15.49.33:821][691]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta3)
+[2020.03.18-15.49.34:889][751]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta2)
+[2020.03.18-15.49.35:826][803]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta3)
+[2020.03.18-15.49.36:891][863]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta2)
+[2020.03.18-15.49.42:422][115]LogEditorViewport: Clicking on Actor (LMB): Puerta_C (Puerta)
+[2020.03.18-15.49.53:218][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapbase" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/Mapbase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.18-15.49.53:285][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.03.18-15.49.55:858][751]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Mapbase29C28AAD43CD3738475B4F9C7478C91D.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/Maps/Mapbase.umap'
+[2020.03.18-15.49.55:918][751]AssetCheck: New page: Asset Save: Mapbase
+[2020.03.18-15.49.55:918][751]LogContentValidation: Display: Validating World /Game/Maps/Mapbase.Mapbase
+[2020.03.18-15.59.38:409][355]LogEditorTransaction: Undo Move Node
+[2020.03.18-16.00.23:819][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.03.18-16.00.26:833][670]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Mapbase_Auto2F50550ED4A380C4345BBDEB503889C1B.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/Maps/Mapbase_Auto2.umap'
+[2020.03.18-16.00.26:838][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 3.085
+[2020.03.18-16.00.26:838][670]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.085
+[2020.03.18-16.00.26:838][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLueprints/Puerta] ([1] browsable assets)...
+[2020.03.18-16.00.26:868][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLueprints/Puerta.Puerta]
+[2020.03.18-16.00.26:868][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/Puerta]
+[2020.03.18-16.00.26:991][670]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Puerta_Auto252A0AEF74E7126E244A1E18F0E715BED.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/Puerta_Auto2.uasset'
+[2020.03.18-16.00.27:000][670]LogFileHelpers: Auto-saving content packages took 0.163
+[2020.03.18-16.01.08:750][221]BlueprintLog: New page: Compile Puerta
+[2020.03.18-16.01.09:174][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.18-16.01.09:924][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLueprints/Puerta" FILE="../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Puerta.uasset" SILENT=true
+[2020.03.18-16.01.10:004][258]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Puerta9528323142674640B85B65B664C60BD5.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Content/BLueprints/Puerta.uasset'
+[2020.03.18-16.01.10:034][258]AssetCheck: New page: Asset Save: Puerta
+[2020.03.18-16.01.10:034][258]LogContentValidation: Display: Validating Blueprint /Game/BLueprints/Puerta.Puerta
+[2020.03.18-16.03.05:596][ 15]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.18-16.10.27:308][878]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.03.18-16.10.30:162][878]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Mapbase_Auto376BD34A549363AA0D9EB57A15ABFA3F4.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/Maps/Mapbase_Auto3.umap'
+[2020.03.18-16.10.30:167][878]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapbase' took 2.919
+[2020.03.18-16.10.30:167][878]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.919
+[2020.03.18-16.10.30:167][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLueprints/Puerta] ([1] browsable assets)...
+[2020.03.18-16.10.30:198][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLueprints/Puerta.Puerta]
+[2020.03.18-16.10.30:198][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLueprints/Puerta]
+[2020.03.18-16.10.30:272][878]LogSavePackage: Moving '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Puerta_Auto365F29F46459381235354409A7E06FDF2.tmp' to '../../../../../Universidad/Motor de juegos/Practica1/PlataformasMiJo/Saved/Autosaves/Game/BLueprints/Puerta_Auto3.uasset'
+[2020.03.18-16.10.30:286][878]LogFileHelpers: Auto-saving content packages took 0.119
+[2020.03.18-16.12.16:963][205]LogD3D11RHI: Error: D3DRHI->GetFactory()->CreateSwapChain(DXGIDevice, &SwapChainDesc, SwapChain.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Viewport.cpp:210 
+ with error E_OUTOFMEMORY
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     78 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap unused(52453)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     54 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(6326)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     55 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(6326)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     53 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(6326)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     31 = 3702 KB (2D 940x504 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     89 = 3702 KB (2D 940x504 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(52453)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     33 = 3702 KB (2D 940x504 PF_FloatRGBA RT) SceneColorSubPixel
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     91 = 3702 KB (2D 940x504 PF_FloatRGBA RT) SeparateTranslucency unused(52453)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     23 = 3702 KB (2D 940x504 PF_FloatRGBA UAV) SSRTemporalAA
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     90 = 3702 KB (2D 940x504 PF_FloatRGBA UAV) SSRTemporalAA unused(52453)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    137 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168696)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    112 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168697)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    113 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168697)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     24 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168697)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    109 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168698)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:     79 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168698)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    114 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168698)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    107 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168698)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    110 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168699)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    108 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168699)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    122 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168699)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    117 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168700)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    118 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168700)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    123 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168700)
+[2020.03.18-16.12.18:572][205]LogConsoleResponse:    116 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168700)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    115 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168700)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    120 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168701)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    121 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168701)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    124 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168701)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    125 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168701)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    119 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168701)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    126 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    127 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    128 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    129 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    130 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    131 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    132 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168702)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    136 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168703)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    157 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168703)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    139 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168703)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    133 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168703)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    138 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168703)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    158 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168704)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    159 = 3072 KB (Cube 512 PF_ShadowDepth) CubeShadowDepthZ unused(168705)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     93 = 2314 KB (2D 940x504 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(52453)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     99 = 2314 KB (2D 940x504 PF_DepthStencil 4xMSAA) SelectionOutline unused(52453)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     43 = 2314 KB (2D 940x504 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     84 = 2048 KB (2D 1024x1024 PF_ShadowDepth) ShadowDepthAtlas unused(52453)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     56 = 1851 KB (2D 940x504 PF_A2B10G10R10 RT) GBufferA unused(6326)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     92 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(52453)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     58 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT sRGB) GBufferC unused(6326)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     98 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT VRam) EditorPrimitives unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     57 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT VRam) GBufferB unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     62 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT VRam) LightAttenuation unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     77 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT VRam) Tonemap unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     59 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT) GBufferD unused(6326)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     60 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT) GBufferE unused(6326)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    100 = 1851 KB (2D 940x504 PF_B8G8R8A8 RT) HitProxy unused(52421)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     61 = 1851 KB (2D 940x504 PF_FloatRGB RT UAV VRam) SceneColor unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     63 = 1851 KB (2D 940x504 PF_FloatRGB RT VRam) SceneColor unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     86 = 1851 KB (2D 940x504 PF_G16R16 RT UAV) Velocity unused(52453)
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     44 = 1157 KB (2D 470x252 PF_DepthStencil) SmallDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     38 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     37 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     87 = 926 KB (2D 470x252 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     52 = 926 KB (2D 940x252 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     47 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     51 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     28 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     48 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     25 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:     30 = 864 KB (3D 48x48x48 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    156 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    162 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    134 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    161 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    163 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    146 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    184 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    183 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    182 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:573][205]LogConsoleResponse:    180 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    179 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    178 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    177 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    171 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    170 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    169 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    167 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    166 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    164 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    147 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    101 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    160 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    148 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    153 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    151 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    149 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    154 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    102 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    103 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    141 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    142 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    143 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    225 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(144138)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    224 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(168656)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    227 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(168657)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    226 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(168657)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    105 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    104 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    106 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    173 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    193 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    176 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    144 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    172 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    145 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    174 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    189 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    199 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    197 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    187 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    194 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    185 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    191 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    150 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    192 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    152 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    188 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    168 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    190 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    198 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    135 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:574][205]LogConsoleResponse:    175 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    165 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    196 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    181 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    140 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    186 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    195 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    201 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53205)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    200 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53205)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    204 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    210 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    209 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    203 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    208 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    202 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    207 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    206 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    205 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    211 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53206)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    217 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53207)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    213 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53207)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    212 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53207)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    219 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53207)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    220 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53209)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    223 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53210)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    221 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53210)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:    222 = 768 KB (Cube 256 PF_ShadowDepth) CubeShadowDepthZ unused(53210)
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:     88 = 463 KB (2D 470x252 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:     75 = 463 KB (2D 470x252 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:575][205]LogConsoleResponse:     64 = 463 KB (2D 470x252 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:     46 = 463 KB (2D 940x504 PF_G8 RT UAV) ScreenSpaceAO
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:     85 = 342 KB (2D 512x256 PF_R16F UAV VRam) HZBFurthest unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:     41 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    240 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    242 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    246 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    234 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    218 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    250 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:     81 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    215 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    235 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    216 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    214 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    247 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    231 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:     83 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    245 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    252 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    155 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    228 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:576][205]LogConsoleResponse:    243 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    232 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    236 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    229 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    249 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    254 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    261 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    262 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    264 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:     32 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    253 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    233 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    255 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    251 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    248 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    256 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:     82 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    260 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    257 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:     45 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    258 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    263 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    259 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    244 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:     29 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    266 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    265 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    268 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    267 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(52453)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    269 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(53090)
+[2020.03.18-16.12.18:577][205]LogConsoleResponse:    270 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(53182)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:    271 = 192 KB (Cube 128 PF_ShadowDepth) CubeShadowDepthZ unused(53182)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     40 = 128 KB (2D 256x256 PF_ShadowDepth) CachedShadowDepthMap unused(168695)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     76 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     50 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     74 = 116 KB (2D 235x126 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     65 = 116 KB (2D 235x126 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     10 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     36 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     35 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     97 = 59 KB (2D 118x126 PF_FloatRGB RT VRam) BloomX unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     42 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     26 = 48 KB (Cube 64 PF_ShadowDepth) CubeShadowDepthZ unused(53090)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     80 = 48 KB (Cube 64 PF_ShadowDepth) CubeShadowDepthZ unused(53245)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:    111 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     39 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap unused(53090)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:    230 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap unused(53182)
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     21 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     73 = 30 KB (2D 118x63 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     66 = 30 KB (2D 118x63 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     20 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     22 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     17 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     96 = 15 KB (2D 59x63 PF_FloatRGB RT VRam) BloomX unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:    239 = 8 KB (2D 59x32 PF_FloatRGB RT VRam) BloomX unused(53679) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     67 = 8 KB (2D 59x32 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     18 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     94 = 7 KB (2D 16x56 PF_FloatRGBA RT UAV VRam) Histogram unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:578][205]LogConsoleResponse:     72 = 4 KB (2D 30x32 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:    238 = 2 KB (2D 30x16 PF_FloatRGB RT VRam) BloomX unused(53679) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     68 = 2 KB (2D 30x16 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     71 = 1 KB (2D 15x16 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:    237 = 1 KB (2D 15x8 PF_FloatRGB RT VRam) BloomX unused(53679) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     69 = 1 KB (2D 15x8 PF_FloatRGB RT VRam) BloomY unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     95 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(52453) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     27 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     49 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     11 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:    241 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(68285)
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     15 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     19 = 1 KB (2D 4x4 PF_R8G8) GTAORandomization
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     70 = 1 KB (2D 8x8 PF_FloatRGB RT VRam) BloomX unused(6326) VRamInKB(Start/Size):<NONE>
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     34 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.03.18-16.12.18:579][205]LogConsoleResponse:     16 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.03.18-16.12.18:579][205]LogConsoleResponse: 
+[2020.03.18-16.12.18:579][205]LogConsoleResponse: Pool: 53/354 MB (referenced/allocated)
+[2020.03.18-16.12.18:579][205]Cmd: rhi.DumpMemory
+[2020.03.18-16.12.18:946][205]RHI resource memory (not tracked by our allocator)
+[2020.03.18-16.12.18:946][205]       191266752  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]         5570564  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]           24652  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]       246683536  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]        28377060  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]         3982080  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]         6843008  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]      1047986473  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]         2721400  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]       242415884  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.03.18-16.12.18:946][205]1693.603MB total
+[2020.03.18-16.12.18:946][205]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.03.18-16.12.18:955][205]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.03.18-16.12.19:003][205]Log file closed, 03/18/20 17:12:19
